@@ -1,0 +1,1336 @@
+{
+  "ingredients": [
+    {
+      "name": "Abecean Longfin",
+      "properties": [
+        "Weakness to Frost",
+        "Fortify Sneak",
+        "Weakness to Poison",
+        "Fortify Restoration"
+      ],
+      "weight": 0.5,
+      "value": 15,
+      "locations": "Lakes, rivers, streams, fish barrels"
+    },
+    {
+      "name": "Ancestor Moth Wing*",
+      "properties": [
+        "Damage Stamina",
+        "Fortify Conjuration",
+        "Damage Magicka Regen",
+        "Fortify Enchanting"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Ancestor Glade"
+    },
+    {
+      "name": "Ash Creep Cluster‡",
+      "properties": [
+        "Damage Stamina",
+        "Invisibility",
+        "Resist Fire",
+        "Fortify Destruction"
+      ],
+      "weight": 0.3,
+      "value": 20,
+      "locations": "Harvested from ash covered areas of Solstheim"
+    },
+    {
+      "name": "Ash Hopper Jelly‡",
+      "properties": [
+        "Restore Health",
+        "Fortify Light Armor",
+        "Resist Shock",
+        "Weakness to Frost"
+      ],
+      "weight": 0.3,
+      "value": 20,
+      "locations": "Ash Hopper Corpses"
+    },
+    {
+      "name": "Ashen Grass Pod‡",
+      "properties": [
+        "Resist Fire",
+        "Weakness to Shock",
+        "Fortify Lockpicking",
+        "Fortify Sneak"
+      ],
+      "weight": 0.1,
+      "value": 1,
+      "locations": "Harvested from ash covered areas of Solstheim"
+    },
+    {
+      "name": "Bear Claws",
+      "properties": [
+        "Restore Stamina",
+        "Fortify Health",
+        "Fortify One-Handed",
+        "Damage Magicka Regen"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Bears"
+    },
+    {
+      "name": "Bee",
+      "properties": [
+        "Restore Stamina",
+        "Ravage Stamina",
+        "Regenerate Stamina",
+        "Weakness to Shock"
+      ],
+      "weight": 0.1,
+      "value": 3,
+      "locations": "Beehive"
+    },
+    {
+      "name": "Beehive Husk",
+      "properties": [
+        "Resist Poison",
+        "Fortify Light Armor",
+        "Fortify Sneak",
+        "Fortify Destruction"
+      ],
+      "weight": 1,
+      "value": 5,
+      "locations": "Beehive"
+    },
+    {
+      "name": "Berit's Ashes",
+      "properties": [
+        "Damage Stamina",
+        "Resist Fire",
+        "Fortify Conjuration",
+        "Ravage Stamina"
+      ],
+      "weight": 0.5,
+      "value": 5,
+      "locations": "Quest item given by Thadgeir"
+    },
+    {
+      "name": "Bleeding Crown",
+      "properties": [
+        "Weakness to Fire",
+        "Fortify Block",
+        "Weakness to Poison",
+        "Resist Magic"
+      ],
+      "weight": 0.3,
+      "value": 10,
+      "locations": "Mushroom clusters"
+    },
+    {
+      "name": "Blisterwort",
+      "properties": [
+        "Damage Stamina",
+        "Frenzy",
+        "Restore Health",
+        "Fortify Smithing"
+      ],
+      "weight": 0.2,
+      "value": 12,
+      "locations": "Caves and dark areas"
+    },
+    {
+      "name": "Blue Butterfly Wing",
+      "properties": [
+        "Damage Stamina",
+        "Fortify Conjuration",
+        "Damage Magicka Regen",
+        "Fortify Enchanting"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Blue Butterfly"
+    },
+    {
+      "name": "Blue Dartwing",
+      "properties": [
+        "Resist Shock",
+        "Fortify Pickpocket",
+        "Restore Health",
+        "Fear"
+      ],
+      "weight": 0.1,
+      "value": 1,
+      "locations": "Hovering above water"
+    },
+    {
+      "name": "Blue Mountain Flower",
+      "properties": [
+        "Restore Health",
+        "Fortify Conjuration",
+        "Fortify Health",
+        "Damage Magicka Regen"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Mountain flower clumps"
+    },
+    {
+      "name": "Boar Tusk‡",
+      "properties": [
+        "Fortify Stamina",
+        "Fortify Health",
+        "Fortify Block",
+        "Frenzy"
+      ],
+      "weight": 0.5,
+      "value": 20,
+      "locations": "Tusked Bristlebacks"
+    },
+    {
+      "name": "Bone Meal",
+      "properties": [
+        "Damage Stamina",
+        "Resist Fire",
+        "Fortify Conjuration",
+        "Ravage Stamina"
+      ],
+      "weight": 0.5,
+      "value": 5,
+      "locations": "Draugr and skeletons"
+    },
+    {
+      "name": "Briar Heart",
+      "properties": [
+        "Restore Magicka",
+        "Fortify Block",
+        "Paralysis",
+        "Fortify Magicka"
+      ],
+      "weight": 0.5,
+      "value": 20,
+      "locations": "Forsworn Leaders"
+    },
+    {
+      "name": "Burnt Spriggan Wood‡",
+      "properties": [
+        "Weakness to Fire",
+        "Fortify Alteration",
+        "Damage Magicka Regen",
+        "Slow"
+      ],
+      "weight": 0.5,
+      "value": 20,
+      "locations": "Burnt Spriggans"
+    },
+    {
+      "name": "Butterfly Wing",
+      "properties": [
+        "Restore Health",
+        "Fortify Barter",
+        "Lingering Damage Stamina",
+        "Damage Magicka"
+      ],
+      "weight": 0.1,
+      "value": 3,
+      "locations": "Monarch Butterfly"
+    },
+    {
+      "name": "Canis Root",
+      "properties": [
+        "Damage Stamina",
+        "Fortify One-Handed",
+        "Fortify Marksman",
+        "Paralysis"
+      ],
+      "weight": 0.1,
+      "value": 5,
+      "locations": "Near rocky areas"
+    },
+    {
+      "name": "Charred Skeever Hide",
+      "properties": [
+        "Restore Stamina",
+        "Cure Disease",
+        "Resist Poison",
+        "Restore Health"
+      ],
+      "weight": 0.5,
+      "value": 1,
+      "locations": "Found at campfires"
+    },
+    {
+      "name": "Chaurus Eggs",
+      "properties": [
+        "Weakness to Poison",
+        "Fortify Stamina",
+        "Damage Magicka",
+        "Invisibility"
+      ],
+      "weight": 0.2,
+      "value": 10,
+      "locations": "Falmer caves"
+    },
+    {
+      "name": "Chaurus Hunter Antennae*",
+      "properties": [
+        "Damage Stamina",
+        "Fortify Conjuration",
+        "Damage Magicka Regen",
+        "Fortify Enchanting"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Chaurus Hunter Chaurus Hunter Fledgling"
+    },
+    {
+      "name": "Chicken's Egg",
+      "properties": [
+        "Resist Magic",
+        "Damage Magicka Regen",
+        "Waterbreathing",
+        "Lingering Damage Stamina"
+      ],
+      "weight": 0.5,
+      "value": 2,
+      "locations": "Chicken's Nest"
+    },
+    {
+      "name": "Creep Cluster",
+      "properties": [
+        "Restore Magicka",
+        "Damage Stamina Regen",
+        "Fortify Carry Weight",
+        "Weakness to Magic"
+      ],
+      "weight": 0.2,
+      "value": 1,
+      "locations": "Hydro-thermal areas"
+    },
+    {
+      "name": "Crimson Nirnroot",
+      "properties": [
+        "Damage Health",
+        "Damage Stamina",
+        "Invisibility",
+        "Resist Magic"
+      ],
+      "weight": 0.2,
+      "value": 10,
+      "locations": "Blackreach"
+    },
+    {
+      "name": "Cyrodilic Spadetail",
+      "properties": [
+        "Damage Stamina",
+        "Fortify Restoration",
+        "Fear",
+        "Ravage Health"
+      ],
+      "weight": 0.3,
+      "value": 15,
+      "locations": "Lakes, rivers, streams, fish barrels"
+    },
+    {
+      "name": "Daedra Heart",
+      "properties": [
+        "Restore Health",
+        "Damage Stamina Regen",
+        "Damage Magicka",
+        "Fear"
+      ],
+      "weight": 0.5,
+      "value": 250,
+      "locations": "Daedra"
+    },
+    {
+      "name": "Deathbell",
+      "properties": [
+        "Damage Health",
+        "Ravage Stamina",
+        "Slow",
+        "Weakness to Poison"
+      ],
+      "weight": 0.1,
+      "value": 4,
+      "locations": "Wild, on planters"
+    },
+    {
+      "name": "Dragon's Tongue",
+      "properties": [
+        "Resist Fire",
+        "Fortify Barter",
+        "Fortify Illusion",
+        "Fortify Two-handed"
+      ],
+      "weight": 0.1,
+      "value": 5,
+      "locations": "Hydro-thermal areas"
+    },
+    {
+      "name": "Dwarven Oil",
+      "properties": [
+        "Weakness to Magic",
+        "Fortify Illusion",
+        "Regenerate Magicka",
+        "Restore Magicka"
+      ],
+      "weight": 0.3,
+      "value": 15,
+      "locations": "Dwemer Ruins"
+    },
+    {
+      "name": "Ectoplasm",
+      "properties": [
+        "Restore Magicka",
+        "Fortify Destruction",
+        "Fortify Magicka",
+        "Damage Health"
+      ],
+      "weight": 0.1,
+      "value": 25,
+      "locations": "Ghostlike creatures"
+    },
+    {
+      "name": "Elves Ear",
+      "properties": [
+        "Restore Magicka",
+        "Fortify Marksman",
+        "Weakness to Frost",
+        "Resist Fire"
+      ],
+      "weight": 0.1,
+      "value": 10,
+      "locations": "Plant, hanging herbs"
+    },
+    {
+      "name": "Emperor Parasol Moss‡",
+      "properties": [
+        "Damage Health",
+        "Fortify Magicka",
+        "Regenerate Health",
+        "Fortify Two-Handed"
+      ],
+      "weight": 0.3,
+      "value": 1,
+      "locations": "Hanging from Emperor Parasol around Tel Mithryn."
+    },
+    {
+      "name": "Eye of Sabre Cat",
+      "properties": [
+        "Restore Stamina",
+        "Ravage Health",
+        "Damage Magicka",
+        "Restore Health"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Sabre Cat, Snowy Sabre Cat"
+    },
+    {
+      "name": "Falmer Ear",
+      "properties": [
+        "Damage Health",
+        "Frenzy",
+        "Resist Poison",
+        "Fortify Lockpicking"
+      ],
+      "weight": 0.2,
+      "value": 10,
+      "locations": "Falmer"
+    },
+    {
+      "name": "Felsaad Tern Feathers‡",
+      "properties": [
+        "Restore Health",
+        "Fortify Light Armor",
+        "Cure Disease",
+        "Resist Magic"
+      ],
+      "weight": 0.1,
+      "value": 15,
+      "locations": "Felsaad Tern"
+    },
+    {
+      "name": "Fire Salts",
+      "properties": [
+        "Weakness to Frost",
+        "Resist Fire",
+        "Restore Magicka",
+        "Regenerate Magicka"
+      ],
+      "weight": 0.3,
+      "value": 50,
+      "locations": "Flame Atronach"
+    },
+    {
+      "name": "Fly Amanita",
+      "properties": [
+        "Resist Fire",
+        "Fortify Two-handed",
+        "Frenzy",
+        "Regenerate Stamina"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Mushroom clusters in and around caves"
+    },
+    {
+      "name": "Frost Mirriam",
+      "properties": [
+        "Resist Frost",
+        "Fortify Sneak",
+        "Ravage Magicka",
+        "Damage Stamina Regen"
+      ],
+      "weight": 0.1,
+      "value": 1,
+      "locations": "Hanging in homes, businesses and giant camps"
+    },
+    {
+      "name": "Frost Salts",
+      "properties": [
+        "Weakness to Fire",
+        "Resist Frost",
+        "Restore Magicka",
+        "Fortify Conjuration"
+      ],
+      "weight": 0.3,
+      "value": 100,
+      "locations": "Frost Atronach"
+    },
+    {
+      "name": "Garlic",
+      "properties": [
+        "Resist Poison",
+        "Fortify Stamina",
+        "Regenerate Magicka",
+        "Regenerate Health"
+      ],
+      "weight": 0.3,
+      "value": 1,
+      "locations": "Hanging in homes, businesses and cooking areas"
+    },
+    {
+      "name": "Giant Lichen",
+      "properties": [
+        "Weakness to Shock",
+        "Ravage Health",
+        "Weakness to Poison",
+        "Restore Magicka"
+      ],
+      "weight": 0.3,
+      "value": 5,
+      "locations": "Swamps"
+    },
+    {
+      "name": "Giant's Toe",
+      "properties": [
+        "Damage Stamina",
+        "Fortify Health",
+        "Fortify Carry Weight",
+        "Damage Stamina Regen"
+      ],
+      "weight": 1,
+      "value": 20,
+      "locations": "Giants"
+    },
+    {
+      "name": "Gleamblossom*",
+      "properties": [
+        "Resist Magic",
+        "Fear",
+        "Regenerate Health",
+        "Paralysis"
+      ],
+      "weight": 0.1,
+      "value": 5,
+      "locations": "Harvested in Darkfall Cave, Forgotten Vale"
+    },
+    {
+      "name": "Glow Dust",
+      "properties": [
+        "Damage Magicka",
+        "Damage Magicka Regen",
+        "Fortify Destruction",
+        "Resist Shock"
+      ],
+      "weight": 0.5,
+      "value": 20,
+      "locations": "Wispmother"
+    },
+    {
+      "name": "Glowing Mushroom",
+      "properties": [
+        "Resist Shock",
+        "Fortify Destruction",
+        "Fortify Smithing",
+        "Fortify Health"
+      ],
+      "weight": 0.2,
+      "value": 5,
+      "locations": "Caves, Dwemer Ruins"
+    },
+    {
+      "name": "Grass Pod",
+      "properties": [
+        "Resist Poison",
+        "Ravage Magicka",
+        "Fortify Alteration",
+        "Restore Magicka"
+      ],
+      "weight": 0.1,
+      "value": 1,
+      "locations": "Tundras"
+    },
+    {
+      "name": "Hagraven Claw",
+      "properties": [
+        "Resist Magic",
+        "Lingering Damage Magicka",
+        "Fortify Enchanting",
+        "Fortify Barter"
+      ],
+      "weight": 0.3,
+      "value": 20,
+      "locations": "Hagraven"
+    },
+    {
+      "name": "Hagraven Feathers",
+      "properties": [
+        "Damage Magicka",
+        "Fortify Conjuration",
+        "Frenzy",
+        "Weakness to Shock"
+      ],
+      "weight": 0.1,
+      "value": 20,
+      "locations": "Hagraven"
+    },
+    {
+      "name": "Hanging Moss",
+      "properties": [
+        "Damage Magicka",
+        "Fortify Health",
+        "Damage Magicka Regen",
+        "Fortify One-Handed"
+      ],
+      "weight": 0.3,
+      "value": 1,
+      "locations": "Vegetated areas, hanging in caves, from buildings"
+    },
+    {
+      "name": "Hawk Beak",
+      "properties": [
+        "Restore Stamina",
+        "Resist Frost",
+        "Fortify Carry Weight",
+        "Resist Shock"
+      ],
+      "weight": 0.3,
+      "value": 15,
+      "locations": "Hawks"
+    },
+    {
+      "name": "Hawk Feathers",
+      "properties": [
+        "Cure Disease",
+        "Fortify Light Armor",
+        "Fortify One-Handed",
+        "Fortify Sneak"
+      ],
+      "weight": 0.1,
+      "value": 15,
+      "locations": "Hawks"
+    },
+    {
+      "name": "Hawk's Egg†",
+      "properties": [
+        "Resist Magic",
+        "Damage Magicka Regen",
+        "Waterbreathing",
+        "Lingering Damage Stamina"
+      ],
+      "weight": 0.5,
+      "value": 2,
+      "locations": "Hawk's Nest"
+    },
+    {
+      "name": "Histcarp",
+      "properties": [
+        "Restore Stamina",
+        "Fortify Magicka",
+        "Damage Stamina Regen",
+        "Waterbreathing"
+      ],
+      "weight": 0.3,
+      "value": 6,
+      "locations": "Lakes, rivers, streams and fish barrels"
+    },
+    {
+      "name": "Honeycomb",
+      "properties": [
+        "Restore Stamina",
+        "Fortify Block",
+        "Fortify Light Armor",
+        "Ravage Stamina"
+      ],
+      "weight": 1,
+      "value": 5,
+      "locations": "Beehive"
+    },
+    {
+      "name": "Human Flesh",
+      "properties": [
+        "Damage Health",
+        "Paralysis",
+        "Restore Magicka",
+        "Fortify Sneak"
+      ],
+      "weight": 0.3,
+      "value": 1,
+      "locations": "Falmer Vampire dens"
+    },
+    {
+      "name": "Human Heart",
+      "properties": [
+        "Damage Health",
+        "Damage Magicka",
+        "Damage Magicka Regen",
+        "Frenzy"
+      ],
+      "weight": 1,
+      "value": 0,
+      "locations": "Falmer Vampire dens"
+    },
+    {
+      "name": "Ice Wraith Teeth",
+      "properties": [
+        "Weakness to Frost",
+        "Fortify Heavy Armor",
+        "Invisibility",
+        "Weakness to Fire"
+      ],
+      "weight": 0.3,
+      "value": 30,
+      "locations": "Ice Wraith"
+    },
+    {
+      "name": "Imp Stool",
+      "properties": [
+        "Damage Health",
+        "Lingering Damage Health",
+        "Paralysis",
+        "Restore Health"
+      ],
+      "weight": 0.3,
+      "value": 0,
+      "locations": "Mushroom clusters near caves or dungeons"
+    },
+    {
+      "name": "Jarrin Root",
+      "properties": [
+        "Damage Health",
+        "Damage Magicka",
+        "Damage Stamina",
+        "Damage Magicka Regen"
+      ],
+      "weight": 0.5,
+      "value": 10,
+      "locations": "Dark Brotherhood Quest"
+    },
+    {
+      "name": "Jazbay Grapes",
+      "properties": [
+        "Weakness to Magic",
+        "Fortify Magicka",
+        "Regenerate Magicka",
+        "Ravage Health"
+      ],
+      "weight": 0.2,
+      "value": 1,
+      "locations": "Hydro-thermal regions"
+    },
+    {
+      "name": "Juniper Berries",
+      "properties": [
+        "Weakness to Fire",
+        "Fortify Marksman",
+        "Regenerate Health",
+        "Damage Stamina Regen"
+      ],
+      "weight": 0.1,
+      "value": 1,
+      "locations": "Juniper Trees"
+    },
+    {
+      "name": "Large Antlers",
+      "properties": [
+        "Restore Stamina",
+        "Fortify Stamina",
+        "Slow",
+        "Damage Stamina Regen"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Deer, Elk"
+    },
+    {
+      "name": "Lavender",
+      "properties": [
+        "Resist Magic",
+        "Fortify Stamina",
+        "Ravage Magicka",
+        "Fortify Conjuration"
+      ],
+      "weight": 0.1,
+      "value": 1,
+      "locations": "Outdoors in clumps"
+    },
+    {
+      "name": "Luna Moth Wing",
+      "properties": [
+        "Damage Magicka",
+        "Fortify Light Armor",
+        "Regenerate Health",
+        "Invisibility"
+      ],
+      "weight": 0.1,
+      "value": 5,
+      "locations": "Luna Moth"
+    },
+    {
+      "name": "Moon Sugar",
+      "properties": [
+        "Weakness to Fire",
+        "Resist Frost",
+        "Restore Magicka",
+        "Regenerate Magicka"
+      ],
+      "weight": 0.3,
+      "value": 50,
+      "locations": "Khajiit Caravans"
+    },
+    {
+      "name": "Mora Tapinella",
+      "properties": [
+        "Restore Magicka",
+        "Lingering Damage Health",
+        "Regenerate Stamina",
+        "Fortify Illusion"
+      ],
+      "weight": 0.3,
+      "value": 4,
+      "locations": "Dead Trees"
+    },
+    {
+      "name": "Mudcrab Chitin",
+      "properties": [
+        "Restore Stamina",
+        "Cure Disease",
+        "Resist Poison",
+        "Resist Fire"
+      ],
+      "weight": 0.3,
+      "value": 2,
+      "locations": "Mudcrabs"
+    },
+    {
+      "name": "Namira's Rot",
+      "properties": [
+        "Damage Magicka",
+        "Fortify Lockpicking",
+        "Fear",
+        "Regenerate Health"
+      ],
+      "weight": 0.3,
+      "value": 0,
+      "locations": "Caves"
+    },
+    {
+      "name": "Netch Jelly‡",
+      "properties": [
+        "Paralysis",
+        "Fortify Carry Weight",
+        "Restore Stamina",
+        "Fear"
+      ],
+      "weight": 0.5,
+      "value": 20,
+      "locations": "Netch"
+    },
+    {
+      "name": "Nightshade",
+      "properties": [
+        "Damage Health",
+        "Damage Magicka Regen",
+        "Lingering Damage Stamina",
+        "Fortify Destruction"
+      ],
+      "weight": 0.1,
+      "value": 8,
+      "locations": "Graveyards, undead areas"
+    },
+    {
+      "name": "Nirnroot",
+      "properties": [
+        "Damage Health",
+        "Damage Stamina",
+        "Invisibility",
+        "Resist Magic"
+      ],
+      "weight": 0.2,
+      "value": 10,
+      "locations": "Near water"
+    },
+    {
+      "name": "Nordic Barnacle",
+      "properties": [
+        "Damage Magicka",
+        "Waterbreathing",
+        "Regenerate Health",
+        "Fortify Pickpocket"
+      ],
+      "weight": 0.2,
+      "value": 5,
+      "locations": "Underwater"
+    },
+    {
+      "name": "Orange Dartwing",
+      "properties": [
+        "Restore Stamina",
+        "Ravage Magicka",
+        "Fortify Pickpocket",
+        "Lingering Damage Health"
+      ],
+      "weight": 0.1,
+      "value": 1,
+      "locations": "Hovering above water"
+    },
+    {
+      "name": "Pearl",
+      "properties": [
+        "Restore Stamina",
+        "Fortify Block",
+        "Restore Magicka",
+        "Resist Shock"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Satchels, Alchemy Laboratory of a Homestead† Pearl Oyster‡"
+    },
+    {
+      "name": "Pine Thrush Egg",
+      "properties": [
+        "Restore Stamina",
+        "Fortify Lockpicking",
+        "Weakness to Poison",
+        "Resist Shock"
+      ],
+      "weight": 0.5,
+      "value": 2,
+      "locations": "Nests in forests"
+    },
+    {
+      "name": "Poison Bloom*",
+      "properties": [
+        "Damage Health",
+        "Slow",
+        "Fortify Carry Weight",
+        "Fear"
+      ],
+      "weight": 0.3,
+      "value": 5,
+      "locations": "Darkfall Cave"
+    },
+    {
+      "name": "Powdered Mammoth Tusk",
+      "properties": [
+        "Restore Stamina",
+        "Fortify Sneak",
+        "Weakness to Fire",
+        "Fear"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Giant Camps, Alchemy Laboratory of a Homestead†"
+    },
+    {
+      "name": "Purple Mountain Flower",
+      "properties": [
+        "Restore Stamina",
+        "Fortify Sneak",
+        "Lingering Damage Magicka",
+        "Resist Frost"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Mountain flower clumps"
+    },
+    {
+      "name": "Red Mountain Flower",
+      "properties": [
+        "Restore Magicka",
+        "Ravage Magicka",
+        "Fortify Magicka",
+        "Damage Health"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Mountain flower clumps"
+    },
+    {
+      "name": "River Betty",
+      "properties": [
+        "Damage Health",
+        "Fortify Alteration",
+        "Slow",
+        "Fortify Carry Weight"
+      ],
+      "weight": 0.3,
+      "value": 15,
+      "locations": "Lakes, rivers, streams and fish barrels"
+    },
+    {
+      "name": "Rock Warbler Egg",
+      "properties": [
+        "Restore Health",
+        "Fortify One-Handed",
+        "Damage Stamina",
+        "Weakness to Magic"
+      ],
+      "weight": 0.5,
+      "value": 2,
+      "locations": "Rock Warbler Nest"
+    },
+    {
+      "name": "Sabre Cat Tooth",
+      "properties": [
+        "Restore Stamina",
+        "Fortify Heavy Armor",
+        "Fortify Smithing",
+        "Weakness to Poison"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Sabre Cat, Frost Sabre Cat"
+    },
+    {
+      "name": "Salmon Roe†",
+      "properties": [
+        "Restore Stamina",
+        "Waterbreathing",
+        "Fortify Magicka",
+        "Regenerate Magicka"
+      ],
+      "weight": 0.2,
+      "value": 5,
+      "locations": "Salmon jumping up falls, Kitchen of a Homestead†"
+    },
+    {
+      "name": "Salt Pile",
+      "properties": [
+        "Weakness to Magic",
+        "Fortify Restoration",
+        "Slow",
+        "Regenerate Magicka"
+      ],
+      "weight": 0.2,
+      "value": 2,
+      "locations": "Merchants, containers, near cooking places"
+    },
+    {
+      "name": "Scaly Pholiota",
+      "properties": [
+        "Weakness to Magic",
+        "Fortify Illusion",
+        "Regenerate Stamina",
+        "Fortify Carry Weight"
+      ],
+      "weight": 0.3,
+      "value": 4,
+      "locations": "Dead birch trees"
+    },
+    {
+      "name": "Scathecraw‡",
+      "properties": [
+        "Ravage Health",
+        "Ravage Stamina",
+        "Ravage Magicka",
+        "Lingering Damage Health"
+      ],
+      "weight": 0.1,
+      "value": 1,
+      "locations": "Harvested all over Solstheim"
+    },
+    {
+      "name": "Silverside Perch",
+      "properties": [
+        "Restore Stamina",
+        "Damage Stamina Regen",
+        "Ravage Health",
+        "Resist Frost"
+      ],
+      "weight": 0.3,
+      "value": 15,
+      "locations": "Lakes, rivers, streams and fish barrels"
+    },
+    {
+      "name": "Skeever Tail",
+      "properties": [
+        "Damage Stamina Regen",
+        "Ravage Health",
+        "Damage Health",
+        "Fortify Light Armor"
+      ],
+      "weight": 0.2,
+      "value": 3,
+      "locations": "Skeever"
+    },
+    {
+      "name": "Slaughterfish Egg",
+      "properties": [
+        "Resist Poison",
+        "Fortify Pickpocket",
+        "Lingering Damage Health",
+        "Fortify Stamina"
+      ],
+      "weight": 0.2,
+      "value": 3,
+      "locations": "Underwater"
+    },
+    {
+      "name": "Slaughterfish Scales",
+      "properties": [
+        "Resist Frost",
+        "Lingering Damage Health",
+        "Fortify Heavy Armor",
+        "Fortify Block"
+      ],
+      "weight": 0.1,
+      "value": 3,
+      "locations": "Slaughterfish"
+    },
+    {
+      "name": "Small Antlers",
+      "properties": [
+        "Weakness to Poison",
+        "Fortify Restoration",
+        "Lingering Damage Stamina",
+        "Damage Health"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Elk"
+    },
+    {
+      "name": "Small Pearl",
+      "properties": [
+        "Restore Stamina",
+        "Fortify One-Handed",
+        "Fortify Restoration",
+        "Resist Frost"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Pearl Oyster‡"
+    },
+    {
+      "name": "Snowberries",
+      "properties": [
+        "Resist Fire",
+        "Fortify Enchanting",
+        "Resist Frost",
+        "Resist Shock"
+      ],
+      "weight": 0.1,
+      "value": 4,
+      "locations": "Snowberry bush, snowy areas"
+    },
+    {
+      "name": "Spawn Ash‡",
+      "properties": [
+        "Ravage Stamina",
+        "Resist Fire",
+        "Fortify Enchanting",
+        "Ravage Magicka"
+      ],
+      "weight": 0.1,
+      "value": 20,
+      "locations": "Ash Spawn"
+    },
+    {
+      "name": "Spider Egg",
+      "properties": [
+        "Damage Stamina",
+        "Damage Magicka Regen",
+        "Fortify Lockpicking",
+        "Fortify Marksman"
+      ],
+      "weight": 0.2,
+      "value": 5,
+      "locations": "Spider lairs"
+    },
+    {
+      "name": "Spriggan Sap",
+      "properties": [
+        "Damage Magicka Regen",
+        "Fortify Enchanting",
+        "Fortify Smithing",
+        "Fortify Alteration"
+      ],
+      "weight": 0.2,
+      "value": 15,
+      "locations": "Spriggan"
+    },
+    {
+      "name": "Swamp Fungal Pod",
+      "properties": [
+        "Resist Shock",
+        "Lingering Damage Magicka",
+        "Paralysis",
+        "Restore Health"
+      ],
+      "weight": 0.3,
+      "value": 5,
+      "locations": "Swamps"
+    },
+    {
+      "name": "Taproot",
+      "properties": [
+        "Weakness to Magic",
+        "Fortify Illusion",
+        "Regenerate Magicka",
+        "Restore Magicka"
+      ],
+      "weight": 0.5,
+      "value": 15,
+      "locations": "Spriggan"
+    },
+    {
+      "name": "Thistle Branch",
+      "properties": [
+        "Resist Frost",
+        "Ravage Stamina",
+        "Resist Poison",
+        "Fortify Heavy Armor"
+      ],
+      "weight": 0.1,
+      "value": 1,
+      "locations": "Thistle Plant"
+    },
+    {
+      "name": "Torchbug Thorax",
+      "properties": [
+        "Restore Stamina",
+        "Lingering Damage Magicka",
+        "Weakness to Magic",
+        "Fortify Stamina"
+      ],
+      "weight": 0.1,
+      "value": 1,
+      "locations": "Torchbugs, glowing at night"
+    },
+    {
+      "name": "Trama Root‡",
+      "properties": [
+        "Weakness to Shock",
+        "Fortify Carry Weight",
+        "Damage Magicka",
+        "Slow"
+      ],
+      "weight": 0.2,
+      "value": 1,
+      "locations": "Harvested from ashen areas of Solstheim"
+    },
+    {
+      "name": "Troll Fat",
+      "properties": [
+        "Resist Poison",
+        "Fortify Two-handed",
+        "Frenzy",
+        "Damage Health"
+      ],
+      "weight": 1,
+      "value": 15,
+      "locations": "Trolls"
+    },
+    {
+      "name": "Tundra Cotton",
+      "properties": [
+        "Resist Magic",
+        "Fortify Magicka",
+        "Fortify Block",
+        "Fortify Barter"
+      ],
+      "weight": 0.1,
+      "value": 1,
+      "locations": "High mountains below snow line, tundra"
+    },
+    {
+      "name": "Vampire Dust",
+      "properties": [
+        "Invisibility",
+        "Restore Magicka",
+        "Regenerate Health",
+        "Cure Disease"
+      ],
+      "weight": 0.2,
+      "value": 25,
+      "locations": "Vampires, the Silver Hand"
+    },
+    {
+      "name": "Void Salts",
+      "properties": [
+        "Weakness to Shock",
+        "Resist Magic",
+        "Damage Health",
+        "Fortify Magicka"
+      ],
+      "weight": 0.2,
+      "value": 125,
+      "locations": "Storm Atronach"
+    },
+    {
+      "name": "Wheat",
+      "properties": [
+        "Restore Health",
+        "Fortify Health",
+        "Damage Stamina Regen",
+        "Lingering Damage Magicka"
+      ],
+      "weight": 0.1,
+      "value": 5,
+      "locations": "Grows on farms, containers"
+    },
+    {
+      "name": "White Cap",
+      "properties": [
+        "Weakness to Frost",
+        "Fortify Heavy Armor",
+        "Restore Magicka",
+        "Ravage Magicka"
+      ],
+      "weight": 0.3,
+      "value": 0,
+      "locations": "Mushroom clusters near caves or dungeons"
+    },
+    {
+      "name": "Wisp Wrappings",
+      "properties": [
+        "Restore Stamina",
+        "Fortify Destruction",
+        "Fortify Carry Weight",
+        "Resist Magic"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Wispmother"
+    },
+    {
+      "name": "Yellow Mountain Flower*",
+      "properties": [
+        "Resist Poison",
+        "Fortify Restoration",
+        "Fortify Health",
+        "Damage Stamina Regen"
+      ],
+      "weight": 0.1,
+      "value": 2,
+      "locations": "Darkfall Cave"
+    }
+  ]
+}
